@@ -11,7 +11,7 @@ Subject: GitHub Private Repository Access Request
 Text: I am requesting the access to the following repositories "linkrepository1" "linkrepository2" "linkrepository3". Thanks
 
 # Why i need to complete the following procedure
-Some repositories of my works will be public, but others like the website source code need to be private to prevent abuse
+Some repositories of my works will be public, but others need to be private to prevent abuse
 
 # There will be an easier procedure in future
 In the future, i will probably work on a system that allows to request and track access from their
